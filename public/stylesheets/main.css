@@ -1,0 +1,11 @@
+figure {
+	padding: 9px;
+}
+
+.card img {
+	padding: 2px;
+}
+
+#delete-form{
+	display: inline;
+}
